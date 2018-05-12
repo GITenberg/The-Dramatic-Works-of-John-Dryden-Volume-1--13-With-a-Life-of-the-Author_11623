@@ -1,5 +1,8 @@
 _repo: The-Dramatic-Works-of-John-Dryden-Volume-1--13-With-a-Life-of-the-Author_11623
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scott, Walter
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4608
     wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11623#The-Dramatic-Works-of-John-Dryden-Volume-1--13-With-a-Life-of-the-Author
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
